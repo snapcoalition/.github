@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="auto" src="https://snapcoalition.org/images/logo.png">
+  <img width="300" height="auto" src="https://github.com/snapcoalition/.github/blob/2f667e6492b222b4a0eed667a15b6b2cd9bdfb6e/logo.png">
 </p>
 
 ## Welcome to our GitHub organization! 👋👋🏻👋🏽👋🏾👋🏿
